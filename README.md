@@ -5,7 +5,7 @@ This is a simple weather application that allows users to check the weather cond
 #Features
 Displays real-time weather conditions and five-day forecast for any location
 
-Utilizes API by APINinja in RapidAPI to fetch weather data
+Utilizes the OpenWeatherMap API to fetch weather data
 
 Responsive design using Bootstrap framework
 
